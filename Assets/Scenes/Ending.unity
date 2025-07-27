@@ -806,8 +806,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "<color=#aaaaaa>PRESENT</color>\n<size=70>NewLand 2019</size>\n\n\n\n\n<color=#aaaaaa>DIRECTOR</color>\nKYUNGHYUK
     JANG\n\n\n<color=#aaaaaa>ENGINEERING</color>\nNewLandTV\n\n\n<color=#aaaaaa>ART</color>\nByaByu\nCanva
-    AI\nTmp\n\n\n<color=#aaaaaa>MUSIC</color>\nMyuPie\nNewLand Music Artist\nNeX\nKSTK
-    STUDIO\n\n\n<color=#aaaaaa>SOUND</color>\nMyuPie\n\n\n\n\n\n\n<color=#aaaaaa>PUBLISHED
+    AI\nTmp\n\n\n<color=#aaaaaa>MUSIC</color>\nMyuPie\nNewLand Music Artist\nFreedom
+    Trail Studio\nNeX\nKSTK STUDIO\n\n\n<color=#aaaaaa>SOUND</color>\nMyuPie\n\n\n\n\n\n\n<color=#aaaaaa>PUBLISHED
     BY</color>\n<size=70>JkhTV</size>\n\n\nKYUNGHYUK JANG\n\n\n\n\n\n\n<size=50><color=#aaaaaa>SPECIAL
     THANKS</color></size>\n<color=#cccccc>Level Designer</color>  ByaByu\n<color=#cccccc>Illustrator</color> 
     ByaByu\n<color=#cccccc><size=15>not</size>Cute</color>  ByaByu\n<color=#cccccc>Illustrator</color> 
@@ -903,8 +903,38 @@ MonoBehaviour:
     |  \uD1B5\uACC4\n\uBBF8\uBD84  |  \uC801\uBD84\n\uAE30\uD559  |  \uB3C4\uD615\n\uD55C\uBB38 
     |  \uC77C\uC5B4\n\uCD08\uB4F1  |  \uC911\uB4F1\n\uACE0\uB4F1  |  \uC5F0\uAD6C\n\uC624\uD1A0 
     |  \uBBA4\uC988\nVS  |  \uC774\uD074\uB9BD\uC2A4\n\uC720\uB2C8 |  \uC548\uB4DC\uB85C\uC774\uB4DC\n\uB9AC\uC5BC 
-    |  \uC5B8\uB9AC\uC5BC\n\n\n\n\n\n\n<color=#aaaaaa>FONT</color>\n\uACBD\uAE30\uCC9C\uB144\uCCB4\nDOS
-    Gothic\nDOS Saemmul\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n..........
+    |  \uC5B8\uB9AC\uC5BC\nJLPT3  |  HSK2\n\uACE4\uB2C8\uCC0C\uC640  |  \uAC00\uB098\uB2E4\uB9C8\uBC95\uC0AC\n\uB974\uC640
+    \uB124\uD0A4\uC2A4\uB85C\uC2A4  |  \uAC80\uBD80\uC7783268\nZ\u3163 \uC874  | 
+    \u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\u314E\n\u314B\u314B\u314B\u314B 
+    |  \u3134\u3134\n\u3131\u3131  |  \u3131\u3134\n\u3134\u3131  |  \u3143\u3143\n\uB77C\uB9C8\uB2E8 
+    |  \uC545\uC5B4\uBAA8\uC790\uC4F0\uC784\n236K\uB2E8  |  K-\uB4DC\uB77C\uB9C8\n\uC625\uC158in 
+    |  \uC548\uB155\uD558\uC2E4\n\uBB49\uAC1C\uB450\uB465\uC2E4  | souvenir\n\uBBF8\uAD6D\uC0AC\uB78C 
+    |  \uC548\uCD09\uCD09\uD55C \uCD08\uCF54\uCE69\n\uC300\uAD6D\uC218  |  2\uB098\uC774\uD5E4\uB4DC2\n7\uBD04\uC7747 
+    |  \uC601\uC218\uC640\uC0AC\uACFC\n\uAD6D\uC218\uB2D8  |  160824\n\uB4F1\uBE44\uC218\uC5F4 
+    |  \uC720\uD55C\uC9D1\uD569\n\uBB34\uD55C\uC9D1\uD569  |  \uC218\uC5F4\uACFC
+    \uC870\uD569\n\uC2DC\uADF8\uB9C8  |  \uB3C4\uCE74\uB77C\uBCA0\n\uB3C4\uD30C\uBBFC\uD50C\uB7EC\uC2A4 
+    |  kC24\n\uB098\uB294g\uB2E4  |  \uB098\uB098\n753  |  \uB2E8\uACE0\n\uC7A5\uAD6C 
+    |  \uBCA0\uC774\uC2A4\uAE49\uCC28\n\uC774\uD0C8\uB9AC\uC548 \uAC8C\uC784  | 
+    \uD038\uC988 \uAC2C\uBE57\n\uC2DC\uC2E4\uB9AC\uC548 \uB098\uC774\uB3C4\uD504 
+    |  \uD0B9\uC988 \uAC2C\uBE57\n\uC9C0\uC6B0\uCF54\uD53C\uC544\uB178  |  \uB808\uD2F0
+    \uC624\uD504\uB2DD\n\uC2A4\uD14C\uC77C\uBA54\uC774\uD2B8  |  \uCCB4\uD06C\uBA54\uC774\uD2B8\n\uB098\uC774\uC2A4Neis 
+    |  \uCCB4\uD06C\uCCB4\uD06C\n\uC2A4\uCF54\uB77C \uBA54\uC774\uD2B8  |  4\uC218\uBA54\uC774\uD2B8\n2\uC218
+    \uBA54\uC774\uD2B8  |  \uB514\uC2A4\uCEE4\uBC8B2\uC5B4\uD0DD\uCEE4\n\uD504\uB80C\uCE58
+    \uB514\uD39C\uC2A4  |  \uB7F0\uB358 \uC2DC\uC2A4\uD15C\n\uB8E8\uC774 \uB85C\uD398\uC988 
+    |  \uBE44\uC5D4\uB098 \uAC8C\uC784\nFour Knights  |  \uB354\uCE58 Defense\n\uBCA0\uB97C\uB9B0
+    \uB514\uD39C\uC2A4  |  \uC2A4\uCE74\uCE58 \uAC8C\uC784\n\uD3F0\uC9C0\uC544\uB2C8
+    \uC624\uD504\uB2DD  |  \uD544\uB9AC\uB3C4\uC5B4 \uB514\uD39C\uC2A4\n\uC13C\uD130
+    \uAC8C\uC784  |  \u3137\u3134\u3145\uAC2C\uBE57\n\uB098\uD3F4\uB808\uC639 \uC5B4\uD0DD2222 
+    |  \uCE74\uB85C\uCE78 \uB514\uD39C\uC2A4\n\uC2DC\uC2E4\uB9AC\uC548 \uB4DC\uB798\uACE4 
+    |  \uC2DC\uC2E4\uB9AC\uC548 \uCE78\n\uC2DC\uC2E4\uB9AC\uC548 \uC54C\uB77C\uD540 
+    |  \uC2DC\uC2E4\uB9AC\uC548 \uD074\uB798\uC2DC\uCEEC\n\uC2DC\uC2E4\uB9AC\uC548
+    \uC2A4\uBCA0\uC2DC\uB2C8\uCF54\uD504  |  \uBAA8\uB358 \uB514\uD39C\uC2A4\n\uB0A8\uC870\uBE44\uCE58
+    \uB514\uD39C\uC2A4  |  \u3147\u314B\u3147\n\uC789\uAE00\uB9AC \uB77C \uC26C\uC2A4\uC2DC\uC544 
+    |  \uB9AC\uB9B4\uB9AC \uC544\uC774\uC57C\n\u314C\u3139\u3139\u3139\u3139 \u314C\u3139\u3139\u3139 
+    |  \u314C\u314C\u314C\u314C\u314C\u314C\u314C\u314C\u314C\n\uD53C\uC790\uB098\uB77C
+    \uC694\uC815  |  \uD658\uC0C1\uC758 \uB098\uB77C\n\uC694\uB9AC  |  \uB8CC\uB9AC\n\uB85C\uB9AC 
+    |  \uBBF9\uC2A4\n\uC11C\uAE30  |  \uB300\uC2E0\n\n\n\n\n\n\n<color=#aaaaaa>FONT</color>\n\uACBD\uAE30\uCC9C\uB144\uCCB4\nDOS
+    Gothic\nDOS Saemmul\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n              
     The Ending,"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cc74d4531c26288479121ccf3f030164, type: 2}
