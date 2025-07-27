@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.066037714, g: 0.066037714, b: 0.066037714, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -810,9 +810,9 @@ MonoBehaviour:
     Trail Studio\nNeX\nKSTK STUDIO\n\n\n<color=#aaaaaa>SOUND</color>\nMyuPie\n\n\n\n\n\n\n<color=#aaaaaa>PUBLISHED
     BY</color>\n<size=70>JkhTV</size>\n\n\nKYUNGHYUK JANG\n\n\n\n\n\n\n<size=50><color=#aaaaaa>SPECIAL
     THANKS</color></size>\n<color=#cccccc>Level Designer</color>  ByaByu\n<color=#cccccc>Illustrator</color> 
-    ByaByu\n<color=#cccccc><size=15>not</size>Cute</color>  ByaByu\n<color=#cccccc>Illustrator</color> 
-    Canva AI\n<color=#cccccc>Level Tester</color>  Myung909\n<color=#cccccc>Special
-    Guest</color>  KSTK\n\n\n\n\n\n\n......\n\n\n\n\n\n\n\uBAA8\uC790,\n\uB878\uC815\uC778 
+    ByaByu\n<color=#cccccc>Artist</color>  Freedom Trail Studio\n<color=#cccccc><size=15>not</size>Cute</color> 
+    ByaByu\n<color=#cccccc>Illustrator</color>  Canva AI\n<color=#cccccc>Level Tester</color> 
+    Myung909<size=15>????</size>\n<color=#cccccc>Special Guest</color>  KSTK\n\n\n\uBAA8\uC790,\n\uB878\uC815\uC778 
     |  \uB2CC\uB198\uD130\n\uBB344  |  \uC544\uCE74\uC2DC\uC544\n\uADF8\uB0E5\uB2E4\uB9AC\uBBF8\uBCF4\uC784 
     |  \uB93C\uC2A4 \uB808\uC2A4 \uB878\uC2A4 \uB7EC\uC2A4 \uB974\uB78C\n\uC18C\uBE44\uC5D0\uD2B8\uB274\uB79C\uB4DC 
     |  New1991\nNew  |  weN\nNeXt  |  1234\n\uB3C4\uB098\uB2C8\uB3CC\uC544\uC774 
@@ -933,7 +933,12 @@ MonoBehaviour:
     |  \uB9AC\uB9B4\uB9AC \uC544\uC774\uC57C\n\u314C\u3139\u3139\u3139\u3139 \u314C\u3139\u3139\u3139 
     |  \u314C\u314C\u314C\u314C\u314C\u314C\u314C\u314C\u314C\n\uD53C\uC790\uB098\uB77C
     \uC694\uC815  |  \uD658\uC0C1\uC758 \uB098\uB77C\n\uC694\uB9AC  |  \uB8CC\uB9AC\n\uB85C\uB9AC 
-    |  \uBBF9\uC2A4\n\uC11C\uAE30  |  \uB300\uC2E0\n\n\n\n\n\n\n<color=#aaaaaa>FONT</color>\n\uACBD\uAE30\uCC9C\uB144\uCCB4\nDOS
+    |  \uBBF9\uC2A4\n\uC11C\uAE30  |  \uB300\uC2E0\n\uC790\uC774\uC2A4\uD1A0\uB9AC 
+    |  \uC62C\uB9BC\uD3EC\uC2A4\n\uC3C0B  |  .com\n\uC544\uC774\uC2A4\uD06C\uB9AC\uC774\uBB34 
+    |  \uD06C\uB9AC\uC2A4\uB9C8\uC2A4\n\uC5D0\uB515\uD130  |  \uB2EC\uB77C\uB77C\n\uC6B0\uB77C\uB77C 
+    |  \uC6D0\uC2DC\uC778\n\uC911\uC0DD\uB300  |  \uACE0\uC0DD\uB300\n\uC120\uCE84\uBE0C\uB9AC\uC544 
+    |  \uC2E0\uC0DD\uB300\n\uC0AC\uC6B0\uB974\uC2A4  |  \uAE38\uB4E4\uC774\uAE30\n\u3141\u3134\u314B 
+    |  \uD558\uB098\uB458\uC14B\n700  |  (7)\n\n\n\n\n\n\n<color=#aaaaaa>FONT</color>\n\uACBD\uAE30\uCC9C\uB144\uCCB4\nDOS
     Gothic\nDOS Saemmul\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n              
     The Ending,"
   m_isRightToLeft: 0
